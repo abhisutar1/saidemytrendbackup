@@ -1,3 +1,7 @@
+//Define the URL of the Artificatory registry
+
+def registry = 'https://trialzczcgk.jfrog.io/'
+
 pipeline {
     agent any
     environment {
